@@ -1,0 +1,14 @@
+if(oldstr3861){
+if(oldstr3861->fixed)qbs_set(oldstr3861,_FUNC_DOWNLOAD_STRING_URL);
+qbs_free(_FUNC_DOWNLOAD_STRING_URL);
+}
+if(oldstr3862){
+if(oldstr3862->fixed)qbs_set(oldstr3862,_FUNC_DOWNLOAD_STRING_FILE);
+qbs_free(_FUNC_DOWNLOAD_STRING_FILE);
+}
+qbs_free(_FUNC_DOWNLOAD_STRING_URL2);
+qbs_free(_FUNC_DOWNLOAD_STRING_E);
+qbs_free(_FUNC_DOWNLOAD_STRING_URL3);
+qbs_free(_FUNC_DOWNLOAD_STRING_X);
+qbs_free(_FUNC_DOWNLOAD_STRING_A);
+qbs_free(_FUNC_DOWNLOAD_STRING_A2);

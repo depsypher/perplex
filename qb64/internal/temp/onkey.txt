@@ -1,0 +1,28 @@
+case 1:
+key_event_occurred++;
+key_event_id=1;
+key_event_occurred++;
+QBMAIN(NULL);
+event_return--;
+break;
+case 2:
+key_event_occurred++;
+key_event_id=2;
+key_event_occurred++;
+QBMAIN(NULL);
+event_return--;
+break;
+case 3:
+key_event_occurred++;
+key_event_id=3;
+key_event_occurred++;
+QBMAIN(NULL);
+event_return--;
+break;
+case 4:
+key_event_occurred++;
+key_event_id=4;
+key_event_occurred++;
+QBMAIN(NULL);
+event_return--;
+break;

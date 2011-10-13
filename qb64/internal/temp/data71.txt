@@ -1,0 +1,157 @@
+qbs *_SUB_IDEDRAWOBJ_STRING1_SEP=NULL;
+if(_SUB_IDEDRAWOBJ_STRING1_SEP==NULL){
+_SUB_IDEDRAWOBJ_STRING1_SEP=qbs_new_fixed((uint8*)mem_static_malloc(1),1,0);
+memset(_SUB_IDEDRAWOBJ_STRING1_SEP->chr,0,1);
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_X=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_X==NULL){
+_SUB_IDEDRAWOBJ_LONG_X=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_X=0;
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_Y=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_Y==NULL){
+_SUB_IDEDRAWOBJ_LONG_Y=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_Y=0;
+}
+qbs *_SUB_IDEDRAWOBJ_STRING_A=NULL;
+if (!_SUB_IDEDRAWOBJ_STRING_A)_SUB_IDEDRAWOBJ_STRING_A=qbs_new(0,0);
+int32 *_SUB_IDEDRAWOBJ_LONG_X2=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_X2==NULL){
+_SUB_IDEDRAWOBJ_LONG_X2=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_X2=0;
+}
+int32 pass3221;
+int32 pass3222;
+int32 pass3223;
+byte_element_struct *byte_element_3224=NULL;
+if (!byte_element_3224){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_3224=(byte_element_struct*)(mem_static_pointer-12); else byte_element_3224=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_3225=NULL;
+if (!byte_element_3225){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_3225=(byte_element_struct*)(mem_static_pointer-12); else byte_element_3225=(byte_element_struct*)mem_static_malloc(12);
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_CX=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_CX==NULL){
+_SUB_IDEDRAWOBJ_LONG_CX=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_CX=0;
+}
+byte_element_struct *byte_element_3226=NULL;
+if (!byte_element_3226){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_3226=(byte_element_struct*)(mem_static_pointer-12); else byte_element_3226=(byte_element_struct*)mem_static_malloc(12);
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_TX=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_TX==NULL){
+_SUB_IDEDRAWOBJ_LONG_TX=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_TX=0;
+}
+int32 pass3228;
+int32 pass3229;
+int32 *_SUB_IDEDRAWOBJ_LONG_W=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_W==NULL){
+_SUB_IDEDRAWOBJ_LONG_W=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_W=0;
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_M=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_M==NULL){
+_SUB_IDEDRAWOBJ_LONG_M=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_M=0;
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_S=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_S==NULL){
+_SUB_IDEDRAWOBJ_LONG_S=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_S=0;
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_N=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_N==NULL){
+_SUB_IDEDRAWOBJ_LONG_N=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_N=0;
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_V1=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_V1==NULL){
+_SUB_IDEDRAWOBJ_LONG_V1=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_V1=0;
+}
+qbs *_SUB_IDEDRAWOBJ_STRING_A3=NULL;
+if (!_SUB_IDEDRAWOBJ_STRING_A3)_SUB_IDEDRAWOBJ_STRING_A3=qbs_new(0,0);
+int32 *_SUB_IDEDRAWOBJ_LONG_I2=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_I2==NULL){
+_SUB_IDEDRAWOBJ_LONG_I2=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_I2=0;
+}
+int64 fornext_value3231;
+int64 fornext_finalvalue3231;
+int64 fornext_step3231;
+uint8 fornext_step_negative3231;
+byte_element_struct *byte_element_3232=NULL;
+if (!byte_element_3232){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_3232=(byte_element_struct*)(mem_static_pointer-12); else byte_element_3232=(byte_element_struct*)mem_static_malloc(12);
+}
+qbs *_SUB_IDEDRAWOBJ_STRING_A2=NULL;
+if (!_SUB_IDEDRAWOBJ_STRING_A2)_SUB_IDEDRAWOBJ_STRING_A2=qbs_new(0,0);
+byte_element_struct *byte_element_3233=NULL;
+if (!byte_element_3233){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_3233=(byte_element_struct*)(mem_static_pointer-12); else byte_element_3233=(byte_element_struct*)mem_static_malloc(12);
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_TNUM=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_TNUM==NULL){
+_SUB_IDEDRAWOBJ_LONG_TNUM=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_TNUM=0;
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_TSEL=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_TSEL==NULL){
+_SUB_IDEDRAWOBJ_LONG_TSEL=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_TSEL=0;
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_Q=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_Q==NULL){
+_SUB_IDEDRAWOBJ_LONG_Q=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_Q=0;
+}
+int32 pass3235;
+int32 pass3236;
+int32 *_SUB_IDEDRAWOBJ_LONG_C=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_C==NULL){
+_SUB_IDEDRAWOBJ_LONG_C=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_C=0;
+}
+int64 fornext_value3238;
+int64 fornext_finalvalue3238;
+int64 fornext_step3238;
+uint8 fornext_step_negative3238;
+byte_element_struct *byte_element_3239=NULL;
+if (!byte_element_3239){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_3239=(byte_element_struct*)(mem_static_pointer-12); else byte_element_3239=(byte_element_struct*)mem_static_malloc(12);
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_WHITESPACE=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_WHITESPACE==NULL){
+_SUB_IDEDRAWOBJ_LONG_WHITESPACE=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_WHITESPACE=0;
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_SPACING=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_SPACING==NULL){
+_SUB_IDEDRAWOBJ_LONG_SPACING=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_SPACING=0;
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_F2=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_F2==NULL){
+_SUB_IDEDRAWOBJ_LONG_F2=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_F2=0;
+}
+int32 *_SUB_IDEDRAWOBJ_LONG_N2=NULL;
+if(_SUB_IDEDRAWOBJ_LONG_N2==NULL){
+_SUB_IDEDRAWOBJ_LONG_N2=(int32*)mem_static_malloc(4);
+*_SUB_IDEDRAWOBJ_LONG_N2=0;
+}
+int64 fornext_value3241;
+int64 fornext_finalvalue3241;
+int64 fornext_step3241;
+uint8 fornext_step_negative3241;
+byte_element_struct *byte_element_3242=NULL;
+if (!byte_element_3242){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_3242=(byte_element_struct*)(mem_static_pointer-12); else byte_element_3242=(byte_element_struct*)mem_static_malloc(12);
+}
+byte_element_struct *byte_element_3243=NULL;
+if (!byte_element_3243){
+if ((mem_static_pointer+=12)<mem_static_limit) byte_element_3243=(byte_element_struct*)(mem_static_pointer-12); else byte_element_3243=(byte_element_struct*)mem_static_malloc(12);
+}

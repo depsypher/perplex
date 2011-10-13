@@ -1,0 +1,14 @@
+int16 *_SUB_DELAY_INTEGER_I=NULL;
+if(_SUB_DELAY_INTEGER_I==NULL){
+_SUB_DELAY_INTEGER_I=(int16*)mem_static_malloc(2);
+*_SUB_DELAY_INTEGER_I=0;
+}
+int32 fornext_value585;
+int32 fornext_finalvalue585;
+int32 fornext_step585;
+uint8 fornext_step_negative585;
+double *_SUB_DELAY_DOUBLE_ST=NULL;
+if(_SUB_DELAY_DOUBLE_ST==NULL){
+_SUB_DELAY_DOUBLE_ST=(double*)mem_static_malloc(8);
+*_SUB_DELAY_DOUBLE_ST=0;
+}

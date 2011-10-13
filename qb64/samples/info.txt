@@ -1,0 +1,120 @@
+This folder contains a repository of QBASIC/QB64 source which runs in QB64
+
+The qb64\samples\qb64\original\ folder contains samples provided with QB64 up to (and including) V0.83
+The example programs contained there are not listed below, refer to qb64\samples\qb64\original\samples.txt for more information about them.
+
+Only QBASIC programs which run WITH NO MODIFICATIONS are added to this repository with the following exceptions:
+-Changes to make the program's path correct if required
+-Changes to the speed at which the program runs
+(The only exception to this rule is wetspot.bas, in which case the minor change is explained)
+
+QB64 programs will be added to this repository later. They will contain a /64 tag.
+
+Tags Used:
+-*  notable
+/b  big program (more than 200 lines)
+/g  graphical
+/f  fun/game
+/l  little (a page or so)
+/s  sound
+/u  utility(something that helps you produce something else)
+/x  unfinished/code snippit/not useful in its current form
+/64 requires QB64 (does not run in QBASIC)
+
+<http://www.qb45.com/files.php?cat=3>
+-*-b-g-f	stick fighters brawl 2, 3d fighting game[qb45com\action\sfb2\sfb2]
+
+<http://www.network54.com/Realm/page_files/TheBOB_Example_Programs.html>
+-b-g-u		creates chess board/pieces graphics[thebob\chess\chess]
+-*-b-g-f-s	pong game[thebob\pongg\pgfx]
+-*-b-g-f	the card game solitaire[thebob\sol\s3gfx]
+-*-b-g-f	similar to QBASIC gorillas with detailed graphics[thebob\kong\k1]
+-b-g		your biorhythm chart for physical, emotional, intellectual and intuitive[thebob\biochart\bcgfx]
+-b-g		abacus(Japanese version)[thebob\abacus\a12gfx]
+-b-g-f-s	leapfrog puzzle[thebob\leapfrog\lfgx]
+-*-b-g-u	drawing/animation tool[thebob\animax\axgfx]
+-b-u-x		a text-graphics monopoly board with some functionality[thebob\monopoly\mboard]
+-*-b-g-f-s	similar to nibbles with detailed graphics[thebob\rattler\rattler]
+-*-b-g-f-s	mini golf[thebob\minigolf\mg]
+-*-b-g-f	design you own motorcycle[thebob\chopper\chopper]
+
+<http://www.network54.com/Forum/190883/>
+-b-g-f		tic-tac-toe, vs computer[n54\big\tictac]
+-*-b-g-u	view wireframe of a .3DS formatted 3D object[n54\big\3dsviewer\3dsviewer]
+-b-g-u          saves an image as a .jpg image file[n54\big\jpegmake]
+
+<http://www.petesqbsite.com/downloads/arcade.shtml>
+-b-g-f-s	2 player, stick figures fighting[pete\beatdown\beatdown]
+-*-b-g-f	ride motorbike & jump to defeat aliens[pete\booger\booger]
+-g-f-s		race & avoid obstacles(flickery)[pete\carracingenglish]
+-*-b-f-s	avoid monsters in a cave & collect treasure[pete\cr\cr]
+-g-f		small fighting game[pete\fight]
+-b-g-f-s	2 player, fight with spaceships[pete\space1]
+-*-b-g-f	exact remake of original space invaders[pete\invader1\invader]
+-g-f-s		pong game[pete\darpong\darpong]
+-l-x		generates 2 random dice numbers[pete\diceit]
+-b-g-f		3d driving/fying game[pete\drug3d]
+-l-f-s		ascii game, avoid enemies by freezing them[pete\move]
+-l-f		guess the number game[pete\mrguessit]
+-g-f		pong game[pete\pongsource]
+-b-g-f		pong with bottoms for paddles?[pete\rectong\rectong]
+-*-b-g-f-s	robot piloting through mazes etc[pete\roboraid\roboraid]
+-b-f-s		use ascii man to avoid traps[pete\alyman]
+-b-f		pong against real life tennis champions[pete\pongtennis\tennis]
+-b-f		2 player ascii deathmatch shoot-em-up[pete\su2\su2t]
+-g-f		drop skydivers into lake safely[pete\skydiver]
+-b-g-f		player vs player graphical tank game[pete\tank\tcv2]
+-b-f-s		ascii-based spaceship game with music[pete\torndc]
+-*-b-g-f	wetspot: 1/2 player, push blocks to enclose enemies(MODIFICATION: TIMER OFF commands which did nothing were removed)[pete\wetspot\wetspot]
+-*-b-g-f-s	shoot spaceships[pete\mooncr\mooncr]
+
+<http://www.petesqbsite.com/downloads/strategy.shtml>
+-f		battleship[pete\battleship]
+-*-b-f-g	strategy game about the hegemonic efforts of medieval empires[pete\hgm30e\hgm30e]
+-b-f		zodiac battle game[pete\zodiac4]
+-f-s		drop ascii bombs on target[pete\bush]
+-b-f		monopoly[pete\monopoly\monopoly]
+-*-b-g-f	like sim-city, but it's sim-empire[pete\simpire\ssimpire]
+-*-b-f		national league cricket manager 2006[pete\nlcm2006\nlcm]
+
+<http://www.petesqbsite.com/downloads/puzzle.shtml>
+-l-f		like the game nim[pete\stones]
+-f		blackjack[pete\bj]
+-l		sudoku solver[pete\sudoku]
+
+<http://www.petesqbsite.com/downloads/graphics.shtml>
+-l-g		simple effect using circles[pete\coolscr]
+-l-g		scrolling with bouncing ball[pete\darokin]
+-l-g		ball bounces realistically[pete\gravity]
+-l-g		lines move line a pendulum simplistically[pete\lineswin]
+-l-g		doubles a graphic's size & saves it[pete\makebig]
+-l-g    	25-line comp. starfield[pete\25lines\starfild]
+-*-l-g  	3D solid triangle rotating cube[pete\25lines\3dcube25]
+-*-l-g  	plasma effect (non-palette)[pete\25lines\npplasma]
+-l-g		rotating circles[pete\rotate]
+-l		simple coloured ascii smilies[pete\rug]
+-l-g		simple night sky & moon[pete\pall2]
+-*-g		texel raytracer[pete\raytra1b]
+-*-b-g		large collection of entertaining graphical techniques[pete\optimus\deedsaks]
+-*-b-g		effects: mandelbrot zoom,plasma,flag[pete\tor\qbdemo]
+-g		fly around a plane of dots[pete\vektor]
+
+<http://www.petesqbsite.com/downloads/utilities.shtml>
+-l-u		converts between ASCII value and character[pete\asciiconversion]
+-l-x		averages 5 test scores[pete\averager]
+-l		limited calculator[pete\calc]
+-l-x		limited calculator in spanish[pete\calc_2]
+-l-u		counts lines of code[pete\cc2]
+-l		degrees(F) to degrees(C)[pete\degrees]
+-l-x		creates simple html page[pete\html\test]
+-l-x		seperates words as you type[pete\kbdparse]
+-*-b-u		makes QB code neat[pete\qbb]
+-g		right angle triangle solver[pete\rats1]
+-l		detects available screen modes[pete\screen]
+-l		counts squares/rects inside grid[pete\rect2]
+-l		tells the time/date in words[pete\time]
+-l		lowercase/uppercase conversion[pete\upperlowerconversion]
+-l		calculate sphere's volume[pete\vsphere]
+-*-b-g-u	PixelPlus256 collection of graphics & font routines[pete\pp256\usersubs]
+
+

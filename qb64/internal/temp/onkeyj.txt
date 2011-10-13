@@ -1,0 +1,4 @@
+if(key_event_id==1)goto LABEL_CRU;
+if(key_event_id==2)goto LABEL_CRD;
+if(key_event_id==3)goto LABEL_CRL;
+if(key_event_id==4)goto LABEL_CRR;

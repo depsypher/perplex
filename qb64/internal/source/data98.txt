@@ -1,0 +1,14 @@
+int32 *_SUB_IDEWAIT_LONG_I=NULL;
+if(_SUB_IDEWAIT_LONG_I==NULL){
+_SUB_IDEWAIT_LONG_I=(int32*)mem_static_malloc(4);
+*_SUB_IDEWAIT_LONG_I=0;
+}
+int64 fornext_value3574;
+int64 fornext_finalvalue3574;
+int64 fornext_step3574;
+uint8 fornext_step_negative3574;
+float *_SUB_IDEWAIT_SINGLE_T=NULL;
+if(_SUB_IDEWAIT_SINGLE_T==NULL){
+_SUB_IDEWAIT_SINGLE_T=(float*)mem_static_malloc(4);
+*_SUB_IDEWAIT_SINGLE_T=0;
+}

@@ -1,0 +1,5 @@
+if(oldstr1719){
+if(oldstr1719->fixed)qbs_set(oldstr1719,_FUNC_COUNTELEMENTS_STRING_A);
+qbs_free(_FUNC_COUNTELEMENTS_STRING_A);
+}
+qbs_free(_FUNC_COUNTELEMENTS_STRING_E);

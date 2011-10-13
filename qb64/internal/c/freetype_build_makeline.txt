@@ -1,0 +1,6 @@
+g++ -F../../common -I./i ./SDLMain.m freetype_build********_detect.cpp -framework Cocoa -framework SDL -framework SDL_ttf ../../common/freetype/build********/libfreetype.dylib -o ../../freetype_build********_detect
+
+g++ -F../../common -I./i ./SDLMain.m freetype_buildA_detect.cpp -framework Cocoa -framework SDL -framework SDL_ttf ../../common/freetype/buildA/libfreetype.dylib -o ../../freetype_buildA_detect
+
+
+g++ -F../../common -I./i ./SDLMain.m freetype_buildB_detect.cpp -framework Cocoa -framework SDL -framework SDL_ttf ../../common/freetype/buildB/libfreetype.dylib -o ../../freetype_buildB_detect
